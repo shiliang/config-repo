@@ -10,4 +10,4 @@ spring:
     show-sql: true
   redis:
     host: 47.102.135.76
-    port: 7000
+    port: 6379
