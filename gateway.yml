@@ -10,10 +10,10 @@ spring:
   jpa:
     show-sql: true
   rabbitmq:
-    host: 106.13.81.170
-    port: 5672
-    username: admin
-password: admin
+    host: 106.13.130.52
+    port: 5673
+    username: guest
+    password: guest
 
 zuul:
   routes:
