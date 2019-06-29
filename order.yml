@@ -9,3 +9,8 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     show-sql: true
+  rabbitmq:
+    host: 106.13.130.52
+    port: 5673
+    username: guest
+    password: guest
